@@ -1,0 +1,9 @@
+
+https://gist.github.com/serge1/9307868
+
+mvn clean install
+
+mvn spring-boot:run
+
+http://localhost:8080/
+
